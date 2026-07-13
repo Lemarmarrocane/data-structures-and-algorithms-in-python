@@ -2,7 +2,7 @@
 
  Description
 
-This repository contains projects and programming exercises completed during my Bachelor of Information Technology studies. The work demonstrates the implementation and application of fundamental data structures and algorithms using Python to solve computational problems efficiently.
+This repository contains projects and programming exercises completed during my Bachelor of Information Technology studies. The work demonstrates the implementation and application of fundamental data structures and algorithms using Python to solve computational problems efficiently.  a Python application that manages a task scheduling system
 
  Topics Covered
 
